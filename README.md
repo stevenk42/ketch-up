@@ -47,7 +47,7 @@ It exists as a curiosity — a relic in its own right, like the pink ketchup bot
 * **`KETCH_UP_v3.5.md`** — the latest version full three-act screenplay.
 * **`poster.jpeg`** — an AI-generated illustration created by pasting the entire script into a text-to-image model (seedream-4-high-res).
 * **`README.md`** — this file.
-* **`/Drafts`** — incremental drafts showing how the story evolved across ~20 rewrites. Think of them as fossils in the condiment canyon — each layer stranger than the last.
+* **`/drafts`** — Folder with incremental drafts showing how the story evolved across ~20 rewrites. Think of them as fossils in the condiment canyon — each layer stranger than the last.
 
 ---
 
