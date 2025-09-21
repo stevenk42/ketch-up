@@ -59,7 +59,5 @@ It exists as a curiosity — a relic in its own right, like the pink ketchup bot
 > *“The world didn’t end with a bang.
 > It ended with a laugh track.
 > And a little pink.”*
-
----
-
-Would you like me to go ahead and make this README **more casual and tongue-in-cheek** (leaning into the absurd humor of the script), or keep it in this **documentary/serious-experiment** tone?
+> 
+![Poster for KETCH… UP!](poster.jpeg)
